@@ -6,6 +6,7 @@ class Product {
 
     static hasMany = [
             offers : Offer
+            print
     ]
 
     static constraints = {
